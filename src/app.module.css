@@ -1,0 +1,42 @@
+.imageSecondContainer {
+  transform: rotate(-25deg) translateY(-40px);
+}
+.imageContainer {
+  width: 1200px;
+  height: 760px;
+  overflow: hidden;
+}
+.imageAnotherContainer {
+  padding: 4px;
+  overflow: hidden;
+}
+.imageAnotherContainer img {
+  object-fit: cover;
+  height: 412px;
+  border-radius: 8px;
+}
+
+/*412 / 3*/
+.image {
+  height: 412px;
+  width: 245px;
+  border-radius: 8px;
+}
+.image0 {
+  background-color: red;
+}
+.image1 {
+  background-color: pink;
+}
+.image2 {
+  background-color: yellow;
+}
+.image3 {
+  background-color: green;
+}
+.image4 {
+  background-color: blue;
+}
+.image5 {
+  background-color: blueviolet;
+}
